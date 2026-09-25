@@ -1,0 +1,6 @@
+{
+  "name": "qmbot",
+  "main": "src/index.js",
+  "compatibility_date": "2025-06-01",
+  "kv_namespaces": [{ "binding": "STATE","id": "8fd2da4a181e41bca911d2b500651737" }]
+}
